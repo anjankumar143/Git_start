@@ -24,3 +24,4 @@ public class PositiveNegative{
 // Enter the number: 
 // -23
 // Entered number -23 is a negative number
+##new comit
